@@ -1,0 +1,20 @@
+{
+  "name": "ubr-async-queue",
+  "version": "0.1.0",
+  "description": "NodeJS async queue",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seagullua/async-queue.git"
+  },
+  "keywords": [
+    "async",
+    "queue"
+  ],
+  "author": "Andrii Chaika",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seagullua/async-queue/issues"
+  },
+  "homepage": "https://github.com/seagullua/async-queue"
+}
